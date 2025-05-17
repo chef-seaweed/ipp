@@ -8,3 +8,8 @@ plotly.express
 
 streamlit
 
+sqlalchemy
+
+sqlite3
+
+web3
